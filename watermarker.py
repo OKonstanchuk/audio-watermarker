@@ -1,3 +1,4 @@
+# Констанчук Олеся
 # from see import *; log_on(__file__)
 import gui, processing, folder
 import os, shutil, tkMessageBox
